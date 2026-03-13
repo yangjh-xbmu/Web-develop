@@ -1,0 +1,59 @@
+# === Node / Bun ===
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/
+bower_components/
+
+# === Python ===
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.eggs/
+*.egg-info/
+dist/
+build/
+
+# === Java / Gradle / Maven ===
+target/
+*.class
+.gradle/
+
+# === Go ===
+vendor/
+
+# === IDE / Editor ===
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# === OS ===
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# === Env / Secrets ===
+.env
+.env.local
+.env.*.local
+
+# === Logs ===
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# === Build artifacts ===
+.next/
+.nuxt/
+.output/
+.cache/
+.parcel-cache/
+.turbo/
