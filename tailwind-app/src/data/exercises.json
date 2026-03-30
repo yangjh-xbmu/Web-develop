@@ -5,7 +5,10 @@
     "description": "学习并实践HTML5的基本文档结构，包括头部、主体和常用标签。",
     "imageUrl": "https://images.unsplash.com/photo-1600695268275-1a6468700bd5",
     "link": "/exercises/html-basics",
-    "tags": ["HTML", "基础"]
+    "tags": [
+      "HTML",
+      "基础"
+    ]
   },
   {
     "id": 2,
@@ -13,7 +16,12 @@
     "description": "深入理解CSS盒模型，并使用Flexbox和Grid进行响应式页面布局。",
     "imageUrl": "https://source.unsplash.com/random/600x400?css,layout",
     "link": "/exercises/css-layout",
-    "tags": ["CSS", "Flexbox", "Grid", "响应式"]
+    "tags": [
+      "CSS",
+      "Flexbox",
+      "Grid",
+      "响应式"
+    ]
   },
   {
     "id": 3,
@@ -21,13 +29,32 @@
     "description": "通过JavaScript动态操作DOM元素，实现交互式网页功能。",
     "imageUrl": "https://source.unsplash.com/random/600x400?javascript,dom",
     "link": "/exercises/js-dom",
-    "tags": ["JavaScript", "DOM", "交互"]
+    "tags": [
+      "JavaScript",
+      "DOM",
+      "交互"
+    ]
   },
   {
     "id": 4,
     "title": "React 组件化开发",
     "description": "学习使用React构建可复用的UI组件，理解状态和属性。",
     "imageUrl": "https://source.unsplash.com/random/600x400?react,components",
-    "tags": ["React", "组件", "SPA"]
+    "tags": [
+      "React",
+      "组件",
+      "SPA"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Next.js 核心概念",
+    "description": "学习Next.js框架的核心概念：组件、jsx、props",
+    "imageUrl": "https://www.bing.com/th/id/OIP._f7r2jhr7HHcNDqJL1652wHaEo?w=268&h=180&c=7&r=0&o=5&pid=1.7s",
+    "tags": [
+      "React",
+      "组件",
+      "SPA"
+    ]
   }
 ]

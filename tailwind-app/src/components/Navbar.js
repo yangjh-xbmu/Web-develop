@@ -5,7 +5,7 @@ export default function Navbar() {
     <nav className="bg-gray-800 text-white p-4">
       <div className="container mx-auto flex justify-between items-center">
         <Link href="/" className="text-xl font-bold">
-          我的应用
+          Web前端技术课程练习
         </Link>
         <ul className="flex space-x-4">
           <li>
@@ -18,7 +18,6 @@ export default function Navbar() {
               练习
             </Link>
           </li>
-          {/* 新增 GitHub 统计链接 */}
           <li>
             <Link href="/github-stats" className="hover:text-gray-300">
               GitHub 统计
